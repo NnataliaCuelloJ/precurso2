@@ -1,2 +1,3 @@
-# precurso2
-repositorio de prueba del modulo 2 del prep
+naty
+estr proyecto es una prueba de como crear un repositorio y clonarlo
+
